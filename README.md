@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React NodeJS NoSQL SQL EXPRESS**
 
-- 📫 How to reach me **ken94000@gmail.com**
+- 📫 How to reach me **ken940005@gmail.com**
 
 - ⚡ Fun fact **Am Too Serious**
 
